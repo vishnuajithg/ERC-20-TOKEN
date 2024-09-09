@@ -7,7 +7,7 @@ This repository contains the smart contract for **GameT Token (GT)**, an ERC20 t
 - **Symbol**: GT
 - **Decimals**: 18
 - **Total Supply**: 100 GT (initially minted to the deployer/admin)
-- **Verified and Published Contract**: [Etherscan](https://etherscan.io/address/0x083E8c0a82b2A10535412c9D915e5136c888F756)
+- **Verified and Published Contract**: [Etherscan](https://sepolia.etherscan.io/address/0x083e8c0a82b2a10535412c9d915e5136c888f756#code)
 
 ## Key Features ⭐
 - **ERC20 Standard**: The contract follows the ERC20 standard, making it compatible with any ERC20-supporting wallet.
@@ -16,7 +16,7 @@ This repository contains the smart contract for **GameT Token (GT)**, an ERC20 t
 
 ## Contract Address 🏷️
 The contract is deployed and verified at:  
-**Address**: [0x083E8c0a82b2A10535412c9D915e5136c888F756](https://etherscan.io/address/0x083E8c0a82b2A10535412c9D915e5136c888F756)
+**Address**: [0x083E8c0a82b2A10535412c9D915e5136c888F756](https://sepolia.etherscan.io/address/0x083e8c0a82b2a10535412c9d915e5136c888f756#code)
 
 ## Prerequisites ⚙️
 
