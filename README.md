@@ -18,10 +18,6 @@ This repository contains the smart contract for **GameT Token (GT)**, an ERC20 t
 The contract is deployed and verified at:  
 **Address**: [0x083E8c0a82b2A10535412c9D915e5136c888F756](https://etherscan.io/address/0x083E8c0a82b2A10535412c9D915e5136c888F756)
 
-## How to Interact with the Contract 🔗
-
-You can interact with the contract using **Remix**, **Etherscan**, or any Ethereum wallet (like MetaMask).
-
 ## Prerequisites ⚙️
 
 To interact with the contract, you’ll need:
@@ -31,4 +27,4 @@ To interact with the contract, you’ll need:
 
 ## License 📜
 
-This project is licensed under the **MIT License**.
+This project is licensed under the MIT license - see the [LICENSE](LICENSE) file for details.
