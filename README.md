@@ -21,3 +21,14 @@ The contract is deployed and verified at:
 ## How to Interact with the Contract 🔗
 
 You can interact with the contract using **Remix**, **Etherscan**, or any Ethereum wallet (like MetaMask).
+
+## Prerequisites ⚙️
+
+To interact with the contract, you’ll need:
+
+- **Metamask or any Ethereum wallet**: Install a wallet to interact with the Ethereum blockchain.
+- **Ether**: You need some ETH in your wallet to pay for gas fees when interacting with the contract.
+
+## License 📜
+
+This project is licensed under the **MIT License**.
